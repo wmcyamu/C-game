@@ -1,0 +1,25 @@
+ENTER to confirm choice in menu
+
+Left Shift + any combination below allows you to dash
+
+W or Arrow Key Up to move up
+
+A or Arrow Key Left to move left
+
+S or Arrow Key Down ro move down
+
+D or Arrow Key Right to move right
+
+W+A/Arrow Key Up + Left to move up and leftwards at the same time
+
+W+D/Arrow Key Up + Right to move up and righwards at the same time
+
+S+A/Arrow Key Down + Left to move down and leftwards at the same time
+
+S+D/Arrow Key Down + Right to move down and rightwards at the same time
+
+Close window to quit
+
+Game auto closes if you die or after 60 sec 
+
+Enjoy
